@@ -20,3 +20,5 @@ There are basic two types of data structures in Python:
 5 Tree
 6 Graph
 7 Hash Table
+############
+But in this article or class, we will discuss only built-in data structures.
